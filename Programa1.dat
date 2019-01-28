@@ -1,0 +1,23 @@
+
+Begin
+
+Int _b
+
+Show_(Analisador)
+Scan_
+
+&Testando
+
+
+
+se(a < b)
+a + b / 4
+
+senao
+Show_(Valor invalido)
+
+
+End
+
+
+
